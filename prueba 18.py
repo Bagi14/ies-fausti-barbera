@@ -21,4 +21,4 @@ elif decision == "pedir un prestamo":
     print("Préstamo concedido.")
     print("Ahora dispone de", str(saldo), "€ en su cuenta")
 else :
-    print ("su saldo es de", str (saldo), "€" ,"/n", "Adios" )
+    print ("su saldo es de", str (saldo), "€" ,"/n", "Adios netanyahu" )
