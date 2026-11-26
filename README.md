@@ -15,9 +15,9 @@ Esto es un comentario
 
 _Programación en Pytohn con Thonny_
 
-### Docentes
-*Enrique
-*Pilar
-*Borja
+### Docentes 
+* Enrique
+* Pilar
+* Borja
 
-[https://portal.edu.gva.es/aules/(Aules)]
+[Aules](https://portal.edu.gva.es/aules/Aules)-Acceso a Aules
